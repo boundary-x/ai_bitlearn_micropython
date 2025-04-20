@@ -1,4 +1,4 @@
-# bitlearn MicroPython Library
+# bitlearn 라이브러리
 
 ![Micro:bit](https://img.shields.io/badge/platform-micro%3Abit-blue?logo=microbit)
 
